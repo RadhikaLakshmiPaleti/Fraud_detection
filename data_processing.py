@@ -1,1 +1,2 @@
-print ("Adding files fraud_detection")
+print ("Adding files for fraud_detection project")
+print ("Added new function sum")
